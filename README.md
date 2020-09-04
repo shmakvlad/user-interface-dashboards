@@ -1,5 +1,7 @@
-### Ngx-Admin Angular 8 application from akveo.com
+### How to expand the dashboard panel
 
-This is modified and more lightweight version of original application to practice UI Automation with Cypress.
-
-The original repo is here: https://github.com/akveo/ngx-admin
+1. brew install npm
+2. npm "install"
+3. npm "start"
+4. npm install cypress --save-dev
+5. npx cypress open
